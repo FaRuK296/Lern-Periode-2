@@ -7,8 +7,8 @@
 
 ## 25.10.2024
 
-- [ ] Einen simplen Taschenrechner mit Addition Subtraktion Multiplikation und Division programmieren um zu sehen ob ich das schaffe ohne viel Hilfe vov Chatgpt.
-- [ ] Neue Begriife usw. lernen mit chatgpt, informieren warum man wo welche Codes usw. benutzt.
+- [x] Einen simplen Taschenrechner mit Addition Subtraktion Multiplikation und Division programmieren um zu sehen ob ich das schaffe ohne viel Hilfe vov Chatgpt.
+- [x] Neue Begriife usw. lernen mit chatgpt, informieren warum man wo welche Codes usw. benutzt.
 
 ✍️ Heute habe ich versucht einen Taschenrechner zu programmieren. Ich habe es alleine bis zu Operator eingeben geschafft dann musste ich immer einbisschen abschauen und versuchen zu verstehen warum man zum Beispiel seine Variable nicht operator nennen kann. Dies ist so weil das wort operator ein reserviertes Schlüsselwort ist. Ich habe es nicht geschafft den Rechner fertigzumachen aber ich glaube in den nächsten 2 Arbeitspaketen sollte ich es schaffen.
 

@@ -23,7 +23,7 @@
 - [ ]
 
   
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich meinen Taschenrechner abgeschlossen, indem ich noch die letze schleife gemachrt habe. Danach habe ich mir gedanken gemach welches Porjekt ich machen könnte. Ich habe ich für ein fussballprogrsmm entschieden und es angefangen es ist sehr kompliziert und schwer.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 

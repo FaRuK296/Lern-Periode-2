@@ -29,8 +29,8 @@
 
 ## 8.11.2024
 
-- [ ] Eine StartGame-Methode schreiben, die eine Begrüßung ausgibt und eine Schleife startet, die das Spiel laufen lässt.
-- [ ] In der StartGame-Schleife eine Auswahl mit den Optionen „Passen“, „Schießen“ und „Verteidigen“ machen. Mit hilfe einer switch Anweisung
+- [x] Eine StartGame-Methode schreiben, die eine Begrüßung ausgibt und eine Schleife startet, die das Spiel laufen lässt.
+- [x] In der StartGame-Schleife eine Auswahl mit den Optionen „Passen“, „Schießen“ und „Verteidigen“ machen. Mit hilfe einer switch Anweisung
 - [ ] Eine zufällige Auswahl für den Computer hinzufügen, die jeweils eine Aktion auswählt die im Spiel angezeigt wird.
 - [ ] Einfach Regeln machen, bei denen eine Aktion eines Spielers im Zusammenspiel mit der Aktion des Computers zu einem Punkt führt. Z.B wenn der Spieler Schießen und der Computer Passen wählt wird ein Tor erzielt und der Punktestand aktualisiert.
 

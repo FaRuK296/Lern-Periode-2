@@ -37,7 +37,18 @@
 Heute habe ich an meinem Fussballprojekt gearbeitet. Ich habe eine StartGame Methode geschrieben die eine Begrüßung ausgibt und eine Schleife startet, die das Spiel laufen lässt. Danach habe ich in der StartGame-Schleife eine Auswahl mit den Optionen „Passen“, „Schießen“ und „Verteidigen“ mit hilfe einer switch Anweisung gemacht. Ich habe lange gebraucht um irgendwelche fehler zu korriegieren, da das Programm nicht funktionierte. deswegen konnte ich leider nur 2 Arbeitspakete machen. Ich bin trotzdem zufrieden weil für mich war es eine Herausforderung diese zu schaffen und ich wollt sie richtig machen. Deswegen habe ich au mehr Zeit investiert und deswegen muss ich diese Arbeitspakete auf nächstes mal verschieben.
 
 ## 15.11.2024
-- [ ] Eine zufällige Auswahl für den Computer hinzufügen, die jeweils eine Aktion auswählt die im Spiel angezeigt wird.
-- [ ]  Einfach Regeln machen, bei denen eine Aktion eines Spielers im Zusammenspiel mit der Aktion des Computers zu einem Punkt führt. Z.B wenn der Spieler Schießen und Computer Passen wählt wird ein Tor erzielt und der Punktestand aktualisiert.
+- [x] Eine zufällige Auswahl für den Computer hinzufügen, die jeweils eine Aktion auswählt die im Spiel angezeigt wird.
+- [x] Einfach Regeln machen, bei denen eine Aktion eines Spielers im Zusammenspiel mit der Aktion des Computers zu einem Punkt führt. Z.B wenn der Spieler Schießen und Computer Passen wählt wird ein Tor erzielt und der Punktestand aktualisiert.
 - [ ] Dem Spieler erlauben, zwischen „Passen“, „Schießen“ und „Verteidigen“ zu wählen.
 - [ ] Den Punktestand nach jeder Runde anzeigen und das Endergebnis nach dem Spiel ausgeben.
+
+Heute habe ich
+
+
+
+
+## 22.11.2024
+- [ ]
+- [ ]
+- [ ]
+- [ ]

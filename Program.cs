@@ -50,9 +50,10 @@ class startGame
             Console.WriteLine("3. Verteidigen");
             Console.Write("Deine Wahl: ");
 
-            int choice = int.Parse(Console.ReadLine());
+            int playerchoice = int.Parse(Console.ReadLine());
+            int computerChoise = random.Next(1, 4);
 
-            switch (choice)
+            switch (playerchoice)
             {
                 case 1:
                     Console.WriteLine("Du hast 'Passen' gewählt.");
@@ -65,35 +66,43 @@ class startGame
                     break;
                 default:
                     Console.WriteLine("Ungültige Wahl. Bitte wähle 1, 2 oder 3.");
+                    continue;
+            }
+
+
+
+            switch (computerChoice)
+            {
+                case 1:
+                    Console.WriteLine("Das Computer-Team hat 'Passen' gewählt.");
+                    break;
+                case 2:
+                    Console.WriteLine("Das Computer-Team hat 'Schießen' gewählt.");
+                    break;
+                case 3:
+                    Console.WriteLine("Das Computer-Team hat 'Verteidigen' gewählt.");
                     break;
             }
-        
+        }
 
-
-            }
-
-        Console.WriteLine("Das Spiel wurde beendet");
-
-
+        Console.WriteLine("Das Spiel ist beendet.");
     }
 }
 
-class Program
-{
-    public static void Main(string[] args)
-
-    {
-        FootballGame game = new FootballGame();
-        game.StartGame();
 
 
 
 
 
 
-    }
 
-}
+
+
+
+
+
+
+
 
 
 

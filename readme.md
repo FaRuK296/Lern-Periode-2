@@ -46,7 +46,7 @@ Heute habe ich an meinem Fussballprojekt gearbeitet. Ich habe eine StartGame Met
 
 
 ## 22.11.2024
-- [ ] Dem Spieler erlauben, zwischen „Passen“, „Schießen“ und „Verteidigen“ zu wählen.
+- [x] Dem Spieler erlauben, zwischen „Passen“, „Schießen“ und „Verteidigen“ zu wählen.
 - [ ] Den Punktestand nach jeder Runde anzeigen und das Endergebnis nach dem Spiel ausgeben
 - [ ] Dem Spieler mehr Einfluss geben, indem du die Aktionen genauer interpretierst (z. B. Schießen mit Erfolgswahrscheinlichkeit).
 - [ ] Das Spiel in Runden unterteilen, um die Aktionen besser zu strukturieren.

@@ -1,3 +1,4 @@
+
 # Lern-Periode 2
 
 25.10 bis 20.12
@@ -50,3 +51,12 @@ Heute habe ich an meinem Fussballprojekt gearbeitet. Ich habe eine StartGame Met
 - [x] Den Punktestand nach jeder Runde anzeigen und das Endergebnis nach dem Spiel ausgeben
 - [ ] Dem Spieler mehr Einfluss geben, indem du die Aktionen genauer interpretierst (z. B. Schießen mit Erfolgswahrscheinlichkeit).
 - [ ] Das Spiel in Runden unterteilen, um die Aktionen besser zu strukturieren.
+
+Heute habe ich die ertsen zwei Arbeitspakete erledigt ich habe viel zeit gebrauch und oft musste ich sehr lange suchwen wo ich Fehler gemacht habe. Deswegen konnte ich leider nur 2 machen. Manchmal waren es auch nur kleine Fehler zum Beispiel das ich "Choice" mit einem "s" geschrieben habe also "Choise". Ich kann jetzt gut if und else Schleifen machen.
+
+
+## 29.11.2024
+- [ ] Dem Spieler mehr Einfluss geben, indem du die Aktionen genauer interpretierst (z. B. Schießen mit Erfolgswahrscheinlichkeit).
+- [ ] Das Spiel in Runden unterteilen, um die Aktionen besser zu strukturieren.
+- [ ] Anpassbare Teams erstellen. Den Spieler vor dem Start eigene Teams wählen lassen.
+

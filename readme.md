@@ -49,14 +49,22 @@ Heute habe ich an meinem Fussballprojekt gearbeitet. Ich habe eine StartGame Met
 ## 22.11.2024
 - [x] Dem Spieler erlauben, zwischen „Passen“, „Schießen“ und „Verteidigen“ zu wählen.
 - [x] Den Punktestand nach jeder Runde anzeigen und das Endergebnis nach dem Spiel ausgeben
-- [ ] Dem Spieler mehr Einfluss geben, indem du die Aktionen genauer interpretierst (z. B. Schießen mit Erfolgswahrscheinlichkeit).
-- [ ] Das Spiel in Runden unterteilen, um die Aktionen besser zu strukturieren.
+- [ ] Anpassbare Teams erstellen. Den Spieler vor dem Start eigene Teams wählen lassen.
+- [ ] Dem Spieler mehr Einfluss geben, indem ich die Aktionen genauer interpretierst (z. B. Schießen mit Erfolgswahrscheinlichkeit).
+
 
 Heute habe ich die ertsen zwei Arbeitspakete erledigt ich habe viel zeit gebrauch und oft musste ich sehr lange suchwen wo ich Fehler gemacht habe. Deswegen konnte ich leider nur 2 machen. Manchmal waren es auch nur kleine Fehler zum Beispiel das ich "Choice" mit einem "s" geschrieben habe also "Choise". Ich kann jetzt gut if und else Schleifen machen.
 
 
 ## 29.11.2024
-- [ ] Dem Spieler mehr Einfluss geben, indem du die Aktionen genauer interpretierst (z. B. Schießen mit Erfolgswahrscheinlichkeit).
-- [ ] Das Spiel in Runden unterteilen, um die Aktionen besser zu strukturieren.
-- [ ] Anpassbare Teams erstellen. Den Spieler vor dem Start eigene Teams wählen lassen.
+- [x] Anpassbare Teams erstellen. Den Spieler vor dem Start eigene Teams wählen lassen.
+- [x] Das Spiel übersichtlicher gestalten indem ich nach verschiedenen Aktionen einen langen strich mache
+- [ ] Dem Spieler mehr Einfluss geben, indem ich die Aktionen genauer interpretierst (z. B. Schießen mit Erfolgswahrscheinlichkeit).
 
+Heute habe ich es ganz alleine geschafft Teamauswahlen hinzuzufügen. Ich habe zwar sehr lange gebraucht aber bin dennoch stolz das ich ich es geschafft habe. Danach habe ich den Code so gemacht das das spiel einwenig übersichtlicher ist. Für das letzte arbeitspakete hatte ich dann leider keine zeit mehr und ich bin mir auch nicht sicher ob ich das unbedingt machen will
+
+## 6.12.2024
+- [ ]
+- [ ] 
+- [ ] 
+- [ ] 

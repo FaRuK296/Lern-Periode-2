@@ -1,4 +1,5 @@
-﻿using System.Security.Cryptography;
+﻿using System.ComponentModel.Design;
+using System.Security.Cryptography;
 
 namespace FootballGame
 {
@@ -57,7 +58,7 @@ class StartGame
 
         while (playerTeam.score < 3 && computerTeam.score < 3)
         {
-            Console.WriteLine("\nWähle eine Aktion:");
+            Console.WriteLine("\nWähle eine Aktion:");  
             Console.WriteLine("1. Passen");
             Console.WriteLine("2. Schießen");
             Console.WriteLine("3. Verteidigen");
@@ -73,10 +74,34 @@ class StartGame
                     break;
                 case 2:
                     Console.WriteLine("Du hast 'Schießen' gewählt.");
+                    Console.WriteLine("In welche richtung willst du scheissen?");
+                    Console.WriteLine("Links: 1 | Rechts: 2 | Mitte: 3");
+                    int shootDirection = int.Parse(Console.ReadLine());
+
+                    int defendirection = random.Next(1, 4);
+
+                    if (shootDirection == defendirection)
+
+                    {
+                        Console.WriteLine("Dein Schuss wurde verteidigt");
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("Du hast ein Tor erzielt");
+                        playerTeam.score++;
+                    }
                     break;
+
                 case 3:
                     Console.WriteLine("Du hast 'Verteidigen' gewählt.");
+
+
+
+
+
                     break;
+
                 default:
                     Console.WriteLine("Ungültige Wahl. Bitte wähle 1, 2 oder 3.");
                     continue;
@@ -96,6 +121,9 @@ class StartGame
                     Console.WriteLine($"{computerTeamChoice} hat 'Verteidigen' gewählt.");
                     break;
             }
+            
+            
+            
             // Spielregeln anwenden
             if (playerChoice == 2 && computerChoice == 1)
             {

@@ -59,11 +59,19 @@ Heute habe ich die ertsen zwei Arbeitspakete erledigt ich habe viel zeit gebrauc
 ## 29.11.2024
 - [x] Anpassbare Teams erstellen. Den Spieler vor dem Start eigene Teams wählen lassen.
 - [x] Das Spiel übersichtlicher gestalten indem ich nach verschiedenen Aktionen einen langen strich mache
-- [ ] Dem Spieler mehr Einfluss geben, indem ich die Aktionen genauer interpretiere (z. B. Schießen mit Erfolgswahrscheinlichkeit).
+- [ ] Dem Spieler mehr Einfluss geben, indem ich die Aktionen genauer interpretiere (z. B. links oder rechts schiessen).
 
 Heute habe ich es ganz alleine geschafft Teamauswahlen hinzuzufügen. Ich habe zwar sehr lange gebraucht aber bin dennoch stolz das ich ich es geschafft habe. Danach habe ich den Code so gemacht das das spiel einwenig übersichtlicher ist. Für das letzte arbeitspaket hatte ich dann leider keine zeit mehr und ich bin mir auch nicht sicher ob ich das unbedingt machen will
 
 ## 6.12.2024
 - [x] Den Code verbessern das die Ausgabe ansprechlicher, übersichtlicher ist und das spiel mehr spass macht
-- [ ] Dem Spieler mehr Einfluss geben, indem ich die Aktionen genauer interpretiere (z. B. Schießen mit Erfolgswahrscheinlichkeit).
-- [ ] Einführen von zufälligen Ereignissen während des Spiels. Also dass ich zum beispiel hinzufüge dass spieler sich verletzen können oder gelbe karten usw.
+- [x] Dem Spieler mehr Einfluss geben, indem ich die Aktionen genauer interpretiere (z. B. links oder rechts schiessen).
+- [ ] Einführen von zufälligen Ereignissen während des Spiels. Also dass ich zum beispiel hinzufügen dass spieler sich verletzen können oder gelbe karten usw.
+
+Heute habe ich meinem Fußballspiel eine neue Funktion hinzugefügt, bei der der Spieler die Schussrichtung auswählen kann. Dabei muss der Spieler entscheiden, ob er nach links, in die Mitte oder nach rechts schießen möchte, während der Computer versucht, die richtige Richtung zu verteidigen. Diese Neuerung macht das Spiel strategischer und spannender, da der Erfolg eines Schusses nicht mehr nur vom Zufall abhängt, sondern von den Entscheidungen des Spielers.
+
+## 13.12.2024
+- [ ] Genaueres Verteidigen machen also das der spieler entscheiden kann ob sein torwart nach rechts, links oder in die mitte geht
+- [ ] Einführen von zufälligen Ereignissen während des Spiels. Also dass ich zum beispiel hinzufügen dass spieler sich verletzen können oder gelbe karten usw.
+- [ ] Spezialfähigkeiten, die Spannung mit besonderen Aktionen für den Spieler und den Computer erhöhen z.b powershot
+- [ ] Dynamisches Wetter, das Spielerlebnis mit zufälligen Wetterbedingungen, die das geschehen beeinflussen machen

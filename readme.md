@@ -64,6 +64,6 @@ Heute habe ich die ertsen zwei Arbeitspakete erledigt ich habe viel zeit gebrauc
 Heute habe ich es ganz alleine geschafft Teamauswahlen hinzuzufügen. Ich habe zwar sehr lange gebraucht aber bin dennoch stolz das ich ich es geschafft habe. Danach habe ich den Code so gemacht das das spiel einwenig übersichtlicher ist. Für das letzte arbeitspaket hatte ich dann leider keine zeit mehr und ich bin mir auch nicht sicher ob ich das unbedingt machen will
 
 ## 6.12.2024
-- [ ] Den Code verbessern das die Ausgabe ansprechlicher, übersichtlicher ist und das spiel mehr spass macht
+- [x] Den Code verbessern das die Ausgabe ansprechlicher, übersichtlicher ist und das spiel mehr spass macht
 - [ ] Dem Spieler mehr Einfluss geben, indem ich die Aktionen genauer interpretiere (z. B. Schießen mit Erfolgswahrscheinlichkeit).
 - [ ] Einführen von zufälligen Ereignissen während des Spiels. Also dass ich zum beispiel hinzufüge dass spieler sich verletzen können oder gelbe karten usw.

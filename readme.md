@@ -71,7 +71,7 @@ Heute habe ich es ganz alleine geschafft Teamauswahlen hinzuzufügen. Ich habe z
 Heute habe ich meinem Fußballspiel eine neue Funktion hinzugefügt, bei der der Spieler die Schussrichtung auswählen kann. Dabei muss der Spieler entscheiden, ob er nach links, in die Mitte oder nach rechts schießen möchte, während der Computer versucht, die richtige Richtung zu verteidigen. Diese Neuerung macht das Spiel strategischer und spannender, da der Erfolg eines Schusses nicht mehr nur vom Zufall abhängt, sondern von den Entscheidungen des Spielers.
 
 ## 13.12.2024
-- [ ] Genaueres Verteidigen machen also das der spieler entscheiden kann ob sein torwart nach rechts, links oder in die mitte geht
-- [ ] Einführen von zufälligen Ereignissen während des Spiels. Also dass ich zum beispiel hinzufügen dass spieler sich verletzen können oder gelbe karten usw.
-- [ ] Spezialfähigkeiten, die Spannung mit besonderen Aktionen für den Spieler und den Computer erhöhen z.b powershot
+- [x] Genaueres Verteidigen machen also das der spieler entscheiden kann ob sein torwart nach rechts, links oder in die mitte geht
+- [ ] Einführen von zufälligen Ereignissen während des Spiels. Also dass ich zum beispiel hinzufüge, dass spieler sich verletzen können oder gelbe karten usw.
+- [ ] Spezialfähigkeiten, die die Spannung mit besonderen Aktionen für den Spieler und den Computer erhöhen z.b powershot
 - [ ] Dynamisches Wetter, das Spielerlebnis mit zufälligen Wetterbedingungen, die das geschehen beeinflussen machen

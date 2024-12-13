@@ -71,16 +71,32 @@ class StartGame
             {
                 case 1:
                     Console.WriteLine("Du hast 'Passen' gewählt.");
-                    break;
+                    Console.WriteLine("Wohin willst du passen?");
+                    Console.WriteLine("Zurück zum Torwart: 1 | Nach aussen zum Flügelspieler: 2 | Nach vorne zum Stürmer: 3");
+                    int passDirectionUser = int.Parse(Console.ReadLine());
+                    int passCatchDirectionComputer = random.Next(1, 4);                    
+                    
+                    if (passDirectionUser == passCatchDirectionComputer)
+                    {
+                        Console.WriteLine("Fehlpass! Dein Pass wurde agbefangen");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Was ein Ball!");
+                    }
+                        break;
+
+
+
+
                 case 2:
                     Console.WriteLine("Du hast 'Schießen' gewählt.");
                     Console.WriteLine("In welche richtung willst du scheissen?");
                     Console.WriteLine("Links: 1 | Rechts: 2 | Mitte: 3");
-                    int shootDirection = int.Parse(Console.ReadLine());
+                    int shootDirectionUser = int.Parse(Console.ReadLine());
+                    int defendDirectionComputer = random.Next(1, 4);
 
-                    int defendirection = random.Next(1, 4);
-
-                    if (shootDirection == defendirection)
+                    if (shootDirectionUser == defendDirectionComputer)
 
                     {
                         Console.WriteLine("Dein Schuss wurde verteidigt");
@@ -95,10 +111,24 @@ class StartGame
 
                 case 3:
                     Console.WriteLine("Du hast 'Verteidigen' gewählt.");
+                    Console.WriteLine("In welche richtung wllst du verteidigen");
+                    Console.WriteLine("Links: 1 | Rechts: 2 | Mitte: 3");
+                    int defendDirectionUser = int.Parse(Console.ReadLine());                    
+                    int shootDirectionComputer = random.Next(1, 4);
 
+                    if (defendDirectionUser == shootDirectionComputer)
+                    {
 
+                        Console.WriteLine("Du hast den Schuss verteidigt!");
+                        
+                    }
 
+                    else
+                    {
+                        Console.WriteLine($"Falsche richtung! {computerTeamChoice} hat ein Tor erzielt");
+                        computerTeam.score++;
 
+                    }
 
                     break;
 
@@ -106,61 +136,10 @@ class StartGame
                     Console.WriteLine("Ungültige Wahl. Bitte wähle 1, 2 oder 3.");
                     continue;
             }
+                        
             
-
-
-            switch (computerChoice)
-            {
-                case 1:
-                    Console.WriteLine($"{computerTeamChoice} hat 'Passen' gewählt.");
-                    break;
-                case 2:
-                    Console.WriteLine($"{computerTeamChoice} hat 'Schießen' gewählt.");
-                    break;
-                case 3:
-                    Console.WriteLine($"{computerTeamChoice} hat 'Verteidigen' gewählt.");
-                    break;
-            }
+                 
             
-            
-            
-            // Spielregeln anwenden
-            if (playerChoice == 2 && computerChoice == 1)
-            {
-                Console.WriteLine("Du hast ein Tor erzielt!");
-                Console.WriteLine("--------------------------------------------------------");
-                playerTeam.score++;
-            }
-
-            else if (computerChoice == 2 && playerChoice == 1)
-
-            {
-                Console.WriteLine($"{computerTeamChoice} hat ein Tor erzielt!");
-                Console.WriteLine("--------------------------------------------------------");
-                computerTeam.score++;
-            }
-
-            else if (playerChoice == 2 && computerChoice == 3)
-            {
-
-                Console.WriteLine("Was für eine Grätsche! Dein Schuss wurde verteidigt");
-                Console.WriteLine("--------------------------------------------------------");
-            }
-
-            else if (computerChoice == 2 && playerChoice == 3)
-
-            {                
-                Console.WriteLine("Was für eine Grätsche! Du hast den Schuss verteidigt");
-                Console.WriteLine("--------------------------------------------------------");
-
-            }
-
-            else
-            {
-                Console.WriteLine("Keine Tore in dieser Runde");
-                Console.WriteLine("--------------------------------------------------------");
-            }
-
             Console.WriteLine($"Aktueller Punktestand: {playerTeam.Name}: {playerTeam.score} | {computerTeam.Name}: {computerTeam.score}");
 
         }

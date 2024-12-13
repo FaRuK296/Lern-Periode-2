@@ -75,3 +75,9 @@ Heute habe ich meinem Fußballspiel eine neue Funktion hinzugefügt, bei der der
 - [x] Genaueres Passen also dass er spieler entscheiden kann in welche richtung er passe will dan kann der pass z.B. abgefangen werden
 - [ ] Einführen von zufälligen Ereignissen während des Spiels. Also dass ich zum beispiel hinzufüge, dass spieler sich verletzen können oder gelbe karten usw.
 - [ ] Dynamisches Wetter, das Spielerlebnis mit zufälligen Wetterbedingungen, die das geschehen beeinflussen machen
+
+Heute habe ich Die Verteidigung und das Passen erweitert, indem man jetzt auswählen kann in welche richtung man verteidigt oder wohin man passt. Ich habe den alten swich-case block entfernt.
+
+## 20.12.2024
+- [ ] Einführen von zufälligen Ereignissen während des Spiels. Also dass ich zum beispiel hinzufüge, dass spieler sich verletzen können oder gelbe karten usw.
+- [ ] Dynamisches Wetter, das Spielerlebnis mit zufälligen Wetterbedingungen, die das geschehen beeinflussen machen

@@ -82,7 +82,7 @@ Heute habe ich Die Verteidigung und das Passen erweitert, indem man jetzt auswä
 - [x] Einführen von zufälligen Ereignissen während des Spiels. Also dass ich zum beispiel hinzufüge, dass spieler sich verletzen können oder gelbe karten usw.
 - [x] Dynamisches Wetter, das Spielerlebnis mit zufälligen Wetterbedingungen, die das geschehen beeinflussen machen
 
-# Fertiges Projekt
+## Fertiges Projekt
 Ich habe ein Footballgame programmiert. Mein Projekt ist ein einfaches Fußballspiel. Der Spieler wählt ein Team und spielt gegen den Computer. Ziel ist es, als Erster 3 Tore zu machen und zu gewinnen. Es gibt drei Aktionen: Passen, Schießen und Verteidigen. Beim Passen wählt man, wohin der Ball geht, aber der Gegner kann den Pass abfangen. Beim Schießen entscheidet man, ob man nach links, rechts oder in die Mitte zielt, während der Computer verteidigt. Beim Verteidigen versucht man, die richtige Richtung zu wählen, um den Schuss des Gegners zu stoppen. Das Spiel läuft in Runden, und nach jeder Runde sieht man den Punktestand. Der erste mit 3 Toren gewinnt. Es macht Spaß und ist leicht zu verstehen.
 
 Hier sieht man den anfang:

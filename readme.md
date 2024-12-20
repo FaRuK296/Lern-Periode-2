@@ -92,5 +92,5 @@ so sieht es aus wenn man gespielt hat:
 ![Screenshot 2024-12-20 103759](https://github.com/user-attachments/assets/216710fb-9a48-4505-bda2-ce18bb6a232c)
 
 
-# Reflexion
+## Reflexion
 

@@ -104,7 +104,7 @@ class StartGame
                     }
                     else
                     {
-                        Console.WriteLine("Du hast ein Tor erzielt");
+                        Console.WriteLine("gooooooooooooooaal! Du hast ein Tor erzielt");
                         playerTeam.score++;
                     }
                     break;
